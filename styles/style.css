@@ -1,7 +1,7 @@
 /*css styling for h1 elements*/
 
 header {
-    background-image: url(../Images/header_background.jpg);
+    background-image: url(../images/header_background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 200px;
